@@ -4,3 +4,13 @@
 	issued  2014-04-28;
 	label   "Initial release".
 
+`PerlX-Window 0.002 cpan:TOBYINK`
+	issued  2014-05-18;
+	changeset [
+		item [
+			a dcs:Packaging;
+			label "Requires Perl 5.16.";
+			dcs:fixes RT#95741;
+			dcs:thanks cpan:SREZIC;
+		];
+	].
