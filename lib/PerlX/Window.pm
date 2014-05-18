@@ -161,6 +161,8 @@ __END__
 
 =encoding utf-8
 
+=for stopwords backporting
+
 =head1 NAME
 
 PerlX::Window - sliding windows on a string or array
