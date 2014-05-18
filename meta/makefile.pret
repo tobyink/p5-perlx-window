@@ -3,7 +3,7 @@
 @prefix : <http://ontologi.es/doap-deps#>.
 
 `PerlX-Window`
-	:runtime-requirement    [ :on "perl 5.008"^^:CpanId ];
+	:runtime-requirement    [ :on "perl 5.016000"^^:CpanId ];
 	:runtime-requirement    [ :on "Data::Alias"^^:CpanId ];
 	:runtime-requirement    [ :on "Exporter::Shiny"^^:CpanId ];
 	:runtime-recommendation [ :on "Variable::Magic"^^:CpanId ];

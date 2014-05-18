@@ -1,4 +1,4 @@
-use 5.008;
+use 5.016000;
 use strict;
 use warnings;
 
@@ -259,6 +259,9 @@ to that variable. This means the following are not the same:
 The second example says "Foo" infinitely because C<$tmp> is
 redefined in each loop, so is a separate variable as far as
 C<window> is concerned.
+
+This module currently requires Perl 5.16, though I believe that
+backporting it to Perl 5.8 is feasible.
 
 =head1 BUGS
 
