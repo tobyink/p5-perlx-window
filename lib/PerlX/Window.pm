@@ -5,7 +5,7 @@ use warnings;
 package PerlX::Window;
 
 our $AUTHORITY = 'cpan:TOBYINK';
-our $VERSION   = '0.003';
+our $VERSION   = '0.004';
 
 use Data::Alias;
 use Exporter::Shiny (our @EXPORT = qw( window window_pos ));
