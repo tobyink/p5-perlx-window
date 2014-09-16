@@ -14,3 +14,12 @@
 			dcs:thanks cpan:SREZIC;
 		];
 	].
+
+`PerlX-Window 0.003 cpan:TOBYINK`
+	issued  2014-09-16;
+	changeset [
+		item [
+			a dcs:Packaging;
+			label "Add repo link.";
+		];
+	].
