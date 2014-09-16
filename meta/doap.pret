@@ -4,7 +4,7 @@
 
 `PerlX-Window`
 	:programming-language "Perl" ;
-	:shortdesc            "a module that does something-or-other";
+	:shortdesc            "sliding windows on a string or array";
 	:homepage             <https://metacpan.org/release/PerlX-Window>;
 	:download-page        <https://metacpan.org/release/PerlX-Window>;
 	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=PerlX-Window>;
